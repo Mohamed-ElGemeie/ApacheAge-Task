@@ -1,5 +1,5 @@
 # ApacheAge-Task
-#### Envirmoent and IDE
+#### Environment and IDE
 - C Programming language v.(C18)
 - Any C compiler (EX: CodeBlocks)
 - gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
